@@ -1,0 +1,13 @@
+{
+	"client": {
+		"dir": "../client",
+		"public": "dist"
+	},
+	"environment": "development",
+	"server": {
+		"dev": {
+			"port": 80
+		},
+		"port": 80
+	}
+}
